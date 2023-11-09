@@ -2,11 +2,12 @@
 
 Python Tip Calculator
 
-This is a simple Python program that calculates the tip for a meal or service. The program prompts the user for the bill amount, the tip 
+This is a simple Python program that calculates the tip for a meal or service. The program prompts the user for the bill amount, 
 
-percentage, and the number of people splitting the bill. The program then calculates the total tip and the tip amount per person.
+the tip percentage, and the number of people splitting the bill. The program then calculates the total tip and the tip amount per person.
 
-Features:
+# Features:
+
 . Supports basic arithmetic operations
 
 . Calculates the tip percentage and tip amount per person
